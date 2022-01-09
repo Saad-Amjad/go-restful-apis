@@ -3,8 +3,9 @@
 
 ### Installation
 
-```go build main.go```
-```go run main.go```
+    ```go build main.go```
+
+    ```go run main.go```
 
 This repo uses Echo, Go minimalist framework.
 
